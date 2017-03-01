@@ -13,7 +13,7 @@ Then you get the list of subgenerators. The important ones for you can see here.
 Usage: yo aspnet:subgenerator     
 ````
 
-   
+ ````    
     appsettings
     class
     dockerfile
